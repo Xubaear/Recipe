@@ -33,5 +33,18 @@ div ol li{margin-left: 230px;
     margin-right: 230px;
 font-size: 25px; color: rgb(129, 123, 123);}
 
+.ntr{font-size: 25px; margin-left: 190px; color: rgb(98, 23, 23);}
+
+.t-para{font-size: 25px;
+margin-left: 190px; color: rgb(129, 123, 123);}
+
+table{height: 400px; margin-left: 28%;}
+.table table tr{text-align: center; justify-content: center; font-size: 50px;
+}
+
+.table table tr td{font-size: 30px;}
+
+.whole{background-color: rgb(229, 232, 237);}
+
 
 
